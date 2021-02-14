@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name TP4056)(type Legacy)(uri ${KIPRJMOD}/TP4056.lib)(options "")(descr ""))
+  (lib (name tp4056)(type Legacy)(uri "/media/squanixmachine/SqxOntheGo/RegularPurpose/Development Board [Gati Board]/GatiRetro/tp4056.lib")(options "")(descr ""))
+  (lib (name 4056)(type Legacy)(uri /home/squanixmachine/Downloads/gatilib/4056.lib)(options "")(descr ""))
+)

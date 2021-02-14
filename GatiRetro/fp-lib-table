@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name gatilib)(type KiCad)(uri /home/squanixmachine/Downloads/gatilib)(options "")(descr ""))
+)
